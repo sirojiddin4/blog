@@ -1,0 +1,991 @@
+[
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2023-03-29T13:28:02.596Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Uni - Bremen: Stress emas ilhom beradigan ta'lim",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2023-03-29T15:11:26.709Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Factfullnessni tugatdim.",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2023-03-29T15:12:05.729Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "Ba'zan ko'p harakat qilsang ham natija chiqmaydi. Shunda o'zingga, o'qishga va boshqa hamma narsaga ishonchni yo'qota boshlaysan. Bu plato effekti deb ataladi.",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2023-03-29T15:12:30.950Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "Va'da qilinganimday Inson tabiati qonunlari kitobidan 16,17 - bobni tugatdim. Shu bilan kitob yakuniga yetdi.",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2023-03-29T15:12:49.506Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "Butun hayotim davomida menga yoqmagan eng katta O'zbekchilik - bu farzandlar qaramligi.",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2023-03-29T15:20:29.083Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Factfullnessni tugatdim.",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2023-03-29T15:20:35.065Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "Ba'zan ko'p harakat qilsang ham natija chiqmaydi. Shunda o'zingga, o'qishga va boshqa hamma narsaga ishonchni yo'qota boshlaysan. Bu plato effekti deb ataladi.",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2023-03-29T15:20:41.374Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "Va'da qilinganimday Inson tabiati qonunlari kitobidan 16,17 - bobni tugatdim. Shu bilan kitob yakuniga yetdi.",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2023-03-29T15:20:46.790Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "Butun hayotim davomida menga yoqmagan eng katta O'zbekchilik - bu farzandlar qaramligi.",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2023-04-02T11:13:40.520Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "1",
+    "object_repr": "Comment by Ajoyib on Uni - Bremen: Stress emas ilhom beradigan ta'lim",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2023-04-23T16:30:13.590Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Uni - Bremen: Stress emas ilhom beradigan ta'lim",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2023-04-23T16:30:35.980Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "4",
+    "object_repr": "universitet",
+    "action_flag": 2,
+    "change_message": "[{\"added\": {\"name\": \"tagged item\", \"object\": \"Factfullnessni tugatdim. tagged with universitet\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2023-04-24T10:09:02.617Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "Markdown post",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2023-04-24T10:09:57.297Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "Markdown post",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2023-04-27T11:27:16.682Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "1",
+    "object_repr": "localhost:8000",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Domain name\", \"Display name\"]}}]"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 1,
+  "fields": {
+    "name": "Can add log entry",
+    "content_type": 1,
+    "codename": "add_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 2,
+  "fields": {
+    "name": "Can change log entry",
+    "content_type": 1,
+    "codename": "change_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 3,
+  "fields": {
+    "name": "Can delete log entry",
+    "content_type": 1,
+    "codename": "delete_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 4,
+  "fields": {
+    "name": "Can view log entry",
+    "content_type": 1,
+    "codename": "view_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 5,
+  "fields": {
+    "name": "Can add permission",
+    "content_type": 2,
+    "codename": "add_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 6,
+  "fields": {
+    "name": "Can change permission",
+    "content_type": 2,
+    "codename": "change_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 7,
+  "fields": {
+    "name": "Can delete permission",
+    "content_type": 2,
+    "codename": "delete_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 8,
+  "fields": {
+    "name": "Can view permission",
+    "content_type": 2,
+    "codename": "view_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 9,
+  "fields": {
+    "name": "Can add group",
+    "content_type": 3,
+    "codename": "add_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 10,
+  "fields": {
+    "name": "Can change group",
+    "content_type": 3,
+    "codename": "change_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 11,
+  "fields": {
+    "name": "Can delete group",
+    "content_type": 3,
+    "codename": "delete_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 12,
+  "fields": {
+    "name": "Can view group",
+    "content_type": 3,
+    "codename": "view_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 13,
+  "fields": {
+    "name": "Can add user",
+    "content_type": 4,
+    "codename": "add_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 14,
+  "fields": {
+    "name": "Can change user",
+    "content_type": 4,
+    "codename": "change_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 15,
+  "fields": {
+    "name": "Can delete user",
+    "content_type": 4,
+    "codename": "delete_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 16,
+  "fields": {
+    "name": "Can view user",
+    "content_type": 4,
+    "codename": "view_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 17,
+  "fields": {
+    "name": "Can add content type",
+    "content_type": 5,
+    "codename": "add_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 18,
+  "fields": {
+    "name": "Can change content type",
+    "content_type": 5,
+    "codename": "change_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 19,
+  "fields": {
+    "name": "Can delete content type",
+    "content_type": 5,
+    "codename": "delete_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 20,
+  "fields": {
+    "name": "Can view content type",
+    "content_type": 5,
+    "codename": "view_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 21,
+  "fields": {
+    "name": "Can add session",
+    "content_type": 6,
+    "codename": "add_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 22,
+  "fields": {
+    "name": "Can change session",
+    "content_type": 6,
+    "codename": "change_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 23,
+  "fields": {
+    "name": "Can delete session",
+    "content_type": 6,
+    "codename": "delete_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 24,
+  "fields": {
+    "name": "Can view session",
+    "content_type": 6,
+    "codename": "view_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 25,
+  "fields": {
+    "name": "Can add post",
+    "content_type": 7,
+    "codename": "add_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 26,
+  "fields": {
+    "name": "Can change post",
+    "content_type": 7,
+    "codename": "change_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 27,
+  "fields": {
+    "name": "Can delete post",
+    "content_type": 7,
+    "codename": "delete_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 28,
+  "fields": {
+    "name": "Can view post",
+    "content_type": 7,
+    "codename": "view_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 29,
+  "fields": {
+    "name": "Can add comment",
+    "content_type": 8,
+    "codename": "add_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 30,
+  "fields": {
+    "name": "Can change comment",
+    "content_type": 8,
+    "codename": "change_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 31,
+  "fields": {
+    "name": "Can delete comment",
+    "content_type": 8,
+    "codename": "delete_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 32,
+  "fields": {
+    "name": "Can view comment",
+    "content_type": 8,
+    "codename": "view_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 33,
+  "fields": {
+    "name": "Can add tag",
+    "content_type": 9,
+    "codename": "add_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 34,
+  "fields": {
+    "name": "Can change tag",
+    "content_type": 9,
+    "codename": "change_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 35,
+  "fields": {
+    "name": "Can delete tag",
+    "content_type": 9,
+    "codename": "delete_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 36,
+  "fields": {
+    "name": "Can view tag",
+    "content_type": 9,
+    "codename": "view_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 37,
+  "fields": {
+    "name": "Can add tagged item",
+    "content_type": 10,
+    "codename": "add_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 38,
+  "fields": {
+    "name": "Can change tagged item",
+    "content_type": 10,
+    "codename": "change_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 39,
+  "fields": {
+    "name": "Can delete tagged item",
+    "content_type": 10,
+    "codename": "delete_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 40,
+  "fields": {
+    "name": "Can view tagged item",
+    "content_type": 10,
+    "codename": "view_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 41,
+  "fields": {
+    "name": "Can add site",
+    "content_type": 11,
+    "codename": "add_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 42,
+  "fields": {
+    "name": "Can change site",
+    "content_type": 11,
+    "codename": "change_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 43,
+  "fields": {
+    "name": "Can delete site",
+    "content_type": 11,
+    "codename": "delete_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 44,
+  "fields": {
+    "name": "Can view site",
+    "content_type": 11,
+    "codename": "view_site"
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$VMLDbAQLvet9Ngg9IfNYZl$5FAW4BAQmxB7RoP72EqwoCUZqrJGmFnQBnIMFwLHaGo=",
+    "last_login": "2023-04-23T16:10:08.998Z",
+    "is_superuser": true,
+    "username": "admin",
+    "first_name": "",
+    "last_name": "",
+    "email": "admin@gmail.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2023-03-29T13:22:40.277Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 1,
+  "fields": {
+    "app_label": "admin",
+    "model": "logentry"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 2,
+  "fields": {
+    "app_label": "auth",
+    "model": "permission"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 3,
+  "fields": {
+    "app_label": "auth",
+    "model": "group"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 4,
+  "fields": {
+    "app_label": "auth",
+    "model": "user"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 5,
+  "fields": {
+    "app_label": "contenttypes",
+    "model": "contenttype"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 6,
+  "fields": {
+    "app_label": "sessions",
+    "model": "session"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 7,
+  "fields": {
+    "app_label": "blog",
+    "model": "post"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 8,
+  "fields": {
+    "app_label": "blog",
+    "model": "comment"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 9,
+  "fields": {
+    "app_label": "taggit",
+    "model": "tag"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 10,
+  "fields": {
+    "app_label": "taggit",
+    "model": "taggeditem"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 11,
+  "fields": {
+    "app_label": "sites",
+    "model": "site"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "2l4otomcn1a43xxtrkemgs65c7ph0y75",
+  "fields": {
+    "session_data": ".eJxVjEsOwjAMBe-SNYpCPjVhyZ4zRHZs0wJqpaZdIe4OlbqA7ZuZ9zIF16Uva5O5DGzO5mgOvxthfci4Ab7jeJtsncZlHshuit1ps9eJ5XnZ3b-DHlv_rZ12HUFijcHXGKlmQfAI4l3QKBkgIflQkQATU1RlFg5dTnrKroJ5fwD63jjP:1pqcHx:9ZHNK8vZ3fLACF0kVOAoMrEfyqdWy1jHpcfzCviLha8",
+    "expire_date": "2023-05-07T16:10:09.012Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "ygf3c602g6k48iyvf466pgvankaj6nl0",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAUBf-FtSG8LNSl-34DuQ-QqoGktCvjv2uTLnR7Zua8RIRtLXHraYkzi4vQ4vS7IdAj1R3wHeqtSWp1XWaUuyIP2uXUOD2vh_t3UKCXb52tUV5ZDezCoAMHNG7IlsFlpZiRyY9MdOYxK60JMxnwyaMzxiajULw_6NM4dA:1phVp5:tRMRgqBJoUd6kT18qhruQoeEBqaAYZ7F8LDU3GbXecQ",
+    "expire_date": "2023-04-12T13:26:43.045Z"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 1,
+  "fields": {
+    "title": "Uni - Bremen: Stress emas ilhom beradigan ta'lim",
+    "slug": "uni-bremen-stress-emas-ilhom-beradigan-talim",
+    "body": "Uni Bremenda o'qishning o'ziga xos jihatlaridan biri be ta'limning erkinligidir.",
+    "publish": "2023-03-29T13:26:45Z",
+    "created": "2023-03-29T13:28:02.594Z",
+    "updated": "2023-04-23T16:30:13.578Z",
+    "status": "PB",
+    "author": 1
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 2,
+  "fields": {
+    "title": "Factfullnessni tugatdim.",
+    "slug": "factfullnessni-tugatdim",
+    "body": "Bugun notelarni uzataman. Qiziq kitob ekan. Yevropadagi ko'p stereotiplani sindirgan. Sharq qoloq, Musulmonla boshqacha, Afrika odam bo'lmaydi degan gaplarni noto'g'ri ekanligini ko'rsatgan kuchli kitob. Eng muhimi birinchi marta analitik fikrlaydigan usulda yozilgan chindan asosli kitob topidim. Bungacha o'qigan ko'p kitoblarim odamlani fikriga asoslangan. \r\n\r\nFikrlarimiz esa doim ham to'g'ri bo'lmaydi. Masalan man qo'limni oldin juda sovuq keyin sovuq suvga tiqsam ikkinchi suyuqlik issiq tuyulishi mumkin. Lekin aslida bu suvni issiq qilib qo'ymaydi. Xo'sh unda qanday qilib to'g'ri fikr yuritish mumkin? Raqamlar orqali. Termometrni suvga tiqasiz agar 40 gradus bo'lsa issiq, 10 gradus sovuq degani.  \r\n\r\nAslida biza sezmagan holda haqiqat deb o'qiydigan ko'p narsalarimiz mana shu odamlarni xato fikrlari xolos. Masalan manga juda yoqadigan 1984 shunchaki kommunizmga bo'lgan bo'rttirilgan qo'rquv mahsuli. Aslida kitob unchalik ham to'g'ri emas. Yoki faqat kapitalizm haq deb o'ylaydigan Amerika tibbiyot tizimi aslida kommunistik usulda ko'proq insonlarni saqlab qola olardi. Buni tushunish uchun raqamli fikrlashni o'rganish kerak. Factfullness bizga shuni o'rgatadi.",
+    "publish": "2023-03-29T15:11:00Z",
+    "created": "2023-03-29T15:11:26.708Z",
+    "updated": "2023-03-29T15:20:29.078Z",
+    "status": "PB",
+    "author": 1
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 3,
+  "fields": {
+    "title": "Ba'zan ko'p harakat qilsang ham natija chiqmaydi. Shunda o'zingga, o'qishga va boshqa hamma narsaga ishonchni yo'qota boshlaysan. Bu plato effekti deb ataladi.",
+    "slug": "bazan-kop-harakat-qilsang-ham-natija-chiqmaydi-shunda-ozingga-oqishga-va-boshqa-hamma-narsaga-ishonchni-yoqota-boshlaysan-bu-plato-effekti-deb-ataladi",
+    "body": "Tasavvur qil, muzqaymoq mashinasida mahsulot tayyorlamoqchisan. Sut, shakar va qaymoq quyasan, keyin mashina mahsulotni tayyorlaguncha kutasan. Miya ham xuddi shunday ishlaydi.\r\n\r\nKitobni o'qiganingda, jarayonni boshlaysan. Ammo miya ishlashi va bu ma'lumotni qobiliyatga aylantirish uchun biroz vaqt kerak. Shuning uchun, agar til kurslarini bugun boshlasang, ikki-uch oydan so'ng uning samarasini his qila boshlaysan. Bugun gitara chalishda ko'p mehnat qilsang, keyingi haftada yaxshiroq chalayotganingni his qilasan.\r\n\r\nSabr va harakat!",
+    "publish": "2023-03-29T15:11:56Z",
+    "created": "2023-03-29T15:12:05.726Z",
+    "updated": "2023-03-29T15:20:35.056Z",
+    "status": "PB",
+    "author": 1
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 4,
+  "fields": {
+    "title": "Va'da qilinganimday Inson tabiati qonunlari kitobidan 16,17 - bobni tugatdim. Shu bilan kitob yakuniga yetdi.",
+    "slug": "vada-qilinganimday-inson-tabiati-qonunlari-kitobidan-1617-bobni-tugatdim-shu-bilan-kitob-yakuniga-yetdi",
+    "body": "Fransiya azaldan Yevropadagi monarxiyaning markazlaridan biri bo'lgan. Qirol hamma narsani boshqargan muqaddas shaxs hisoblangan. Biroq 1800 - yillarda Fransuzlar nimanidir istab qolishgan. Noroziliklar kuchayib bora - bora qirolni taxtdan ag'darishadi va odamlar hokimiyatni qo'lga oladi. Mamlakatdagi zodagonlarning ko'pchiligi qochib ketadi. Garchi o'sha odamlarning o'zi buni o'sha paytda bilmagan bo'lsa ham, bugun biz bu hodaisani Fransuz Respublikasi inqilobi deb ataymiz.\r\n\r\nHikoyadan maqsad sizga har bir davrning o'z isyonchilari bo'lishini ko'rsatish. Ko'pincha yoshlar doim eski tizimlarga qarshi bosh ko'tarishadi, yoshi kattalar esa mavjud holatni saqlab qolishga intiladi. Bu o'yinda ko'[incha yoshlar yutadi, va sizning taqdiringiz ham qaysi tarafda bo'lishingiz va mana shunday o'zgarishlarni his qilishingizga bog'liq. \r\n\r\nAmerikalik yozuvchi Flannery O'connor otasidan o'tgan kasallik tufayli bir necha yillik umri qolganini bilganidan keyin nihoyatda kuchli asarlar yoza boshlagan. Uning xarakteri nisbatan mukammallashib fikrlari teranlashgan. \r\n\r\nStiv Jobs agar bugun oxirgi kunim bo'lganda nima qilishni xohlardim degan savolni tez-tez so'rab turish kerakligini aytgan. Ko'pchiligimiz yoki o'limni tan olmaymiz, yoki uni eslamaslikka harakat qilamiz. Hali bor... Aslida esa o'lim bilan yuzlashishdan qo'rqmasligimiz unga ruhan tayyor bo'lishimiz kerak. U siz mana shu postni o'qiyatga daqiqalar ichida eshik qoqib qolishi ham mumkin. Bundan ilhomlanish va hayotni to'lig'icha yashashda foydalanish kerak.    Har bir qilayotgan ishimizga 100 foiz berishimiz kerak. Amor Fatining manisi ham aslida shu. Qaysidir daho aytganidek O'lishni o'rgangan odamgina chindan yashashni biladi.\r\n\r\n#kitobnoma",
+    "publish": "2023-03-29T15:12:07Z",
+    "created": "2023-03-29T15:12:30.948Z",
+    "updated": "2023-03-29T15:20:41.373Z",
+    "status": "PB",
+    "author": 1
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 5,
+  "fields": {
+    "title": "Butun hayotim davomida menga yoqmagan eng katta O'zbekchilik - bu farzandlar qaramligi.",
+    "slug": "butun-hayotim-davomida-menga-yoqmagan-eng-katta-ozbekchilik-bu-farzandlar-qaramligi",
+    "body": "Har jihatdan. 26 yoshli so'laxmonday o'g'ilni otasi o'qishga kiritb har oy pul jo'natadi. Moliyaviy qaramlik. Onasi yoki buvisi xotin topib uylantiradi, sevgan odamiga uylanishga qo'ymaydi. Ijtimoiy-hissiy qaramlik. Bobosi qaysi ish ma'qulligini aytadi, amakisi ishga joylaydi. Kasbiy qaramlik. Butun umirimiz qaramlikda o'tadi. Nahotki hech kim oxirdan boshini ko'tarib shuni sira his qilmaydi? \r\n\r\nO'zbekistonda haqiqiy o'zgarish yoshlar o'z qarorlarini o'zi mustaqil qabul qilishni boshlagan kundan boshlanadi. Yoshligidan bolalar moliyaviy savodxonlikka, mustaqil yashashga o'rgatilgan kundan Yangi O'zbekiston paydo bo'ladi. Toki kimdir kallasini ko'tarib bo'layotgan manzarani bor holicha ko'rsatib, asrlar davomida shakllangan tizimni silkitmasa, yoshlar bunga ergashmasa hech nima o'zgarmaydi. O'z hayoti boshqarilgan ota-ona farzandi hayotini ham ipidan ignasigacha boshqaradi. \r\n\r\nHar bir inson erkin yashashga haqli. Bu xoh yaxshi xoh yomon bo'lsin. O'zingniki bo'lmagan umrda yashashdan ma'ni bormikan?",
+    "publish": "2023-03-29T15:12:39Z",
+    "created": "2023-03-29T15:12:49.504Z",
+    "updated": "2023-03-29T15:20:46.784Z",
+    "status": "PB",
+    "author": 1
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 6,
+  "fields": {
+    "title": "Markdown post",
+    "slug": "markdown-post",
+    "body": "T\r\nhis is a post formatted with markdown\r\n--------------------------------------\r\n\r\n*This is emphasized* and **this is more emphasized**.\r\n\r\nHere is a list:\r\n\r\n* One\r\n* Two\r\n* Three\r\n\r\nAnd a [link to the Django website](https://www.djangoproject.com/).",
+    "publish": "2023-04-24T10:08:04Z",
+    "created": "2023-04-24T10:09:02.602Z",
+    "updated": "2023-04-24T10:09:57.289Z",
+    "status": "PB",
+    "author": 1
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 1,
+  "fields": {
+    "post": 1,
+    "name": "Ajoyib",
+    "email": "sirojiddinboboqulov4@gmail.com",
+    "body": "Juda ajoyib",
+    "created": "2023-04-02T11:13:40.510Z",
+    "updated": "2023-04-02T11:13:40.510Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 2,
+  "fields": {
+    "post": 5,
+    "name": "Cabbage",
+    "email": "boboqulovsirojiddin4@gmail.com",
+    "body": "Juda haq",
+    "created": "2023-04-03T09:37:07.792Z",
+    "updated": "2023-04-03T09:37:07.792Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 3,
+  "fields": {
+    "post": 5,
+    "name": "Cabbage",
+    "email": "boboqulovsirojiddin4@gmail.com",
+    "body": "Juda haq",
+    "created": "2023-04-03T09:37:31.912Z",
+    "updated": "2023-04-03T09:37:31.912Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 4,
+  "fields": {
+    "post": 5,
+    "name": "Cabbage",
+    "email": "boboqulovsirojiddin4@gmail.com",
+    "body": "Falafel",
+    "created": "2023-04-03T09:42:20.226Z",
+    "updated": "2023-04-03T09:42:20.226Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 5,
+  "fields": {
+    "post": 5,
+    "name": "Cabbage",
+    "email": "boboqulovsirojiddin4@gmail.com",
+    "body": "Falafel",
+    "created": "2023-04-03T09:43:23.285Z",
+    "updated": "2023-04-03T09:43:23.285Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 6,
+  "fields": {
+    "post": 5,
+    "name": "Cabbage",
+    "email": "boboqulovsirojiddin4@gmail.com",
+    "body": "Ajoyib",
+    "created": "2023-04-03T09:49:25.878Z",
+    "updated": "2023-04-03T09:49:25.878Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 7,
+  "fields": {
+    "post": 5,
+    "name": "Cabbage",
+    "email": "boboqulovsirojiddin4@gmail.com",
+    "body": "Ajoyib",
+    "created": "2023-04-03T09:53:04.264Z",
+    "updated": "2023-04-03T09:53:04.264Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 8,
+  "fields": {
+    "post": 5,
+    "name": "Cabbage",
+    "email": "boboqulovsirojiddin4@gmail.com",
+    "body": "Ajoyib",
+    "created": "2023-04-03T09:54:58.932Z",
+    "updated": "2023-04-03T09:54:58.932Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 9,
+  "fields": {
+    "post": 2,
+    "name": "Sirojiddin",
+    "email": "boboqulovsirojiddin4@gmail.com",
+    "body": "Uztmadizku, brat!",
+    "created": "2023-04-03T11:48:45.508Z",
+    "updated": "2023-04-03T11:48:45.508Z",
+    "active": true
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 1,
+  "fields": {
+    "name": "music",
+    "slug": "music"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 2,
+  "fields": {
+    "name": "jazz",
+    "slug": "jazz"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 3,
+  "fields": {
+    "name": " django",
+    "slug": "django"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 4,
+  "fields": {
+    "name": "universitet",
+    "slug": "universitet"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 5,
+  "fields": {
+    "name": "markdown",
+    "slug": "markdown"
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 4,
+  "fields": {
+    "tag": 4,
+    "content_type": 7,
+    "object_id": 1
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 5,
+  "fields": {
+    "tag": 4,
+    "content_type": 7,
+    "object_id": 2
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 6,
+  "fields": {
+    "tag": 5,
+    "content_type": 7,
+    "object_id": 6
+  }
+},
+{
+  "model": "sites.site",
+  "pk": 1,
+  "fields": {
+    "domain": "localhost:8000",
+    "name": "localhost:8000"
+  }
+}
+]
